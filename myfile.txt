@@ -1,2 +1,6 @@
 second change of this file
+<<<<<<< HEAD
 Changes to our file, in our own repo.
+=======
+changes to ourfile, in the clone
+>>>>>>> 1a7bb3665566bfa61b69ec50d4b82a0b174206a4
