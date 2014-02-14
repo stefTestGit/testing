@@ -1,1 +1,2 @@
 second change of this file
+changes to ourfile, in the clone
